@@ -19,7 +19,7 @@ Update the README.md to specify the branch name.
 
 # Master Branch Modifications
 
-The first commit after the branch should modify ros-distro.conf to reflect the current release series.
+The first commit after the branch should modify all the layer.conf files to reflect the current release series.
 
 ```
 meta-ros-common: ROS_OE_RELEASE_SERIES: switch from honister to kirkstone
